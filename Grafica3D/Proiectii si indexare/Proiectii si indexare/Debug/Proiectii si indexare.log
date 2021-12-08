@@ -1,0 +1,7 @@
+﻿  Proiectii si indexare.cpp
+C:\Grafica3D\Proiectii si indexare\Proiectii si indexare\Proiectii si indexare.cpp(223,56): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Proiectii si indexare.vcxproj -> C:\Grafica3D\Proiectii si indexare\Debug\Proiectii si indexare.exe

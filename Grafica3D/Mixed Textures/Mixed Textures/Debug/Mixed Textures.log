@@ -1,0 +1,6 @@
+﻿  Mixed Textures.cpp
+C:\Grafica3D\Mixed Textures\Mixed Textures\Mixed Textures.cpp(484,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Grafica3D\Mixed Textures\Mixed Textures\Mixed Textures.cpp(485,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Grafica3D\Mixed Textures\Mixed Textures\Mixed Textures.cpp(634,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Grafica3D\Mixed Textures\Mixed Textures\Mixed Textures.cpp(644,35): warning C4305: '-=': truncation from 'double' to 'float'
+  Mixed Textures.vcxproj -> C:\Grafica3D\Mixed Textures\Debug\Mixed Textures.exe

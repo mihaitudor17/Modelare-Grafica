@@ -1,0 +1,8 @@
+﻿  Camera Interactiva.cpp
+C:\Grafica3D\Camera Interactiva\Camera Interactiva\Camera Interactiva.cpp(511,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Grafica3D\Camera Interactiva\Camera Interactiva\Camera Interactiva.cpp(514,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Grafica3D\Camera Interactiva\Camera Interactiva\Camera Interactiva.cpp(517,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Grafica3D\Camera Interactiva\Camera Interactiva\Camera Interactiva.cpp(520,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Grafica3D\Camera Interactiva\Camera Interactiva\Camera Interactiva.cpp(523,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Grafica3D\Camera Interactiva\Camera Interactiva\Camera Interactiva.cpp(526,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Camera Interactiva.vcxproj -> C:\Grafica3D\Camera Interactiva\Debug\Camera Interactiva.exe

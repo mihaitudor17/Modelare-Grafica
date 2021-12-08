@@ -1,0 +1,6 @@
+﻿  Laborator 7 - Lumina.cpp
+C:\Grafica3D\Laborator 7 - Lumina\Laborator 7 - Lumina\Laborator 7 - Lumina.cpp(394,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Grafica3D\Laborator 7 - Lumina\Laborator 7 - Lumina\Laborator 7 - Lumina.cpp(400,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Grafica3D\Laborator 7 - Lumina\Laborator 7 - Lumina\Laborator 7 - Lumina.cpp(405,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Grafica3D\Laborator 7 - Lumina\Laborator 7 - Lumina\Laborator 7 - Lumina.cpp(411,24): warning C4305: '-=': truncation from 'double' to 'float'
+  Laborator 7 - Lumina.vcxproj -> C:\Grafica3D\Laborator 7 - Lumina\Debug\Laborator 7 - Lumina.exe
