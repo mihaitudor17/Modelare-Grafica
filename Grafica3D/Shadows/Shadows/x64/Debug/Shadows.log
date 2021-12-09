@@ -1,0 +1,168 @@
+﻿  Shadows.cpp
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(729,12): error C2084: function 'int stbi__cpuid3(void)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(729): message : see previous definition of 'stbi__cpuid3'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(751,12): error C2084: function 'int stbi__sse2_available(void)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(751): message : see previous definition of 'stbi__sse2_available'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(753,16): error C2065: 'stbi__cpuid3': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(753,30): error C2440: 'initializing': cannot convert from 'int (__cdecl *)(void)' to 'int'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(753,14): message : There is no context in which this conversion is possible
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(817,3): error C2371: 'stbi__context': redefinition; different basic types
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(817): message : see declaration of 'stbi__context'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(823,13): error C2084: function 'void stbi__start_mem(stbi__context *,const stbi_uc *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(823): message : see previous definition of 'stbi__start_mem'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(833,13): error C2084: function 'void stbi__start_callbacks(stbi__context *,stbi_io_callbacks *,void *)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(833): message : see previous definition of 'stbi__start_callbacks'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(847,12): error C2084: function 'int stbi__stdio_read(void *,char *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(847): message : see previous definition of 'stbi__stdio_read'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(852,13): error C2084: function 'void stbi__stdio_skip(void *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(852): message : see previous definition of 'stbi__stdio_skip'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(862,12): error C2084: function 'int stbi__stdio_eof(void *)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(862): message : see previous definition of 'stbi__stdio_eof'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(867,26): error C2374: 'stbi__stdio_callbacks': redefinition; multiple initialization
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(867): message : see declaration of 'stbi__stdio_callbacks'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(874,13): error C2084: function 'void stbi__start_file(stbi__context *,FILE *)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(874): message : see previous definition of 'stbi__start_file'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(876,4): error C2065: 'stbi__start_callbacks': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(883,13): error C2084: function 'void stbi__rewind(stbi__context *)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(883): message : see previous definition of 'stbi__rewind'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(894,4): error C2365: 'STBI_ORDER_RGB': redefinition; previous definition was 'enumerator'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(894): message : see declaration of 'STBI_ORDER_RGB'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(895,4): error C2365: 'STBI_ORDER_BGR': redefinition; previous definition was 'enumerator'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(895): message : see declaration of 'STBI_ORDER_BGR'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(903,3): error C2371: 'stbi__result_info': redefinition; different basic types
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(903): message : see declaration of 'stbi__result_info'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(967,13): error C2086: 'const char *stbi__g_failure_reason': redefinition
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(967): message : see declaration of 'stbi__g_failure_reason'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(969,21): error C2084: function 'const char *stbi_failure_reason(void)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(969): message : see previous definition of 'stbi_failure_reason'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(975,12): warning C4003: not enough arguments for function-like macro invocation 'stbi__err'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(975,12): error C2084: function 'int stbi__err(const char *)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(975): message : see previous definition of 'stbi__err'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(982,14): error C2084: function 'void *stbi__malloc(size_t)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(982): message : see previous definition of 'stbi__malloc'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(999,12): error C2084: function 'int stbi__addsizes_valid(int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(999): message : see previous definition of 'stbi__addsizes_valid'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1011,12): error C2084: function 'int stbi__mul2sizes_valid(int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1011): message : see previous definition of 'stbi__mul2sizes_valid'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1021,12): error C2084: function 'int stbi__mad2sizes_valid(int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1021): message : see previous definition of 'stbi__mad2sizes_valid'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1023,11): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1023,42): error C2065: 'stbi__addsizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1023,72): warning C4551: function call missing argument list
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1023,72): error C2568: '&&': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1023,72): message : could be 'int stbi__addsizes_valid(int,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1028,12): error C2084: function 'int stbi__mad3sizes_valid(int,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1028): message : see previous definition of 'stbi__mad3sizes_valid'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1030,11): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1030,42): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1030,72): warning C4551: function call missing argument list
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1030,72): error C2568: '&&': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1030,72): message : could be 'int stbi__mul2sizes_valid(int,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1031,7): error C2065: 'stbi__addsizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1036,12): error C2084: function 'int stbi__mad4sizes_valid(int,int,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1036): message : see previous definition of 'stbi__mad4sizes_valid'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1038,11): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1038,42): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1038,72): warning C4551: function call missing argument list
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1038,72): error C2568: '&&': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1038,72): message : could be 'int stbi__mul2sizes_valid(int,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1039,7): error C2065: 'stbi__mul2sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1039,42): error C2065: 'stbi__addsizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1045,14): error C2084: function 'void *stbi__malloc_mad2(int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1045): message : see previous definition of 'stbi__malloc_mad2'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1047,9): error C2065: 'stbi__mad2sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1047,8): warning C4551: function call missing argument list
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1048,11): error C2065: 'stbi__malloc': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1052,14): error C2084: function 'void *stbi__malloc_mad3(int,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1052): message : see previous definition of 'stbi__malloc_mad3'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1054,9): error C2065: 'stbi__mad3sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1054,8): warning C4551: function call missing argument list
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1055,11): error C2065: 'stbi__malloc': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1059,14): error C2084: function 'void *stbi__malloc_mad4(int,int,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1059): message : see previous definition of 'stbi__malloc_mad4'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1061,9): error C2065: 'stbi__mad4sizes_valid': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1061,8): warning C4551: function call missing argument list
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1062,11): error C2065: 'stbi__malloc': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1081,14): error C2084: function 'void stbi_image_free(void *)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1081): message : see previous definition of 'stbi_image_free'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1094,12): error C2374: 'stbi__vertically_flip_on_load_global': redefinition; multiple initialization
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1094): message : see declaration of 'stbi__vertically_flip_on_load_global'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1096,14): error C2084: function 'void stbi_set_flip_vertically_on_load(int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1096): message : see previous definition of 'stbi_set_flip_vertically_on_load'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1104,30): error C2086: 'int stbi__vertically_flip_on_load_local': redefinition
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1104): message : see declaration of 'stbi__vertically_flip_on_load_local'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1104,67): error C2086: 'int stbi__vertically_flip_on_load_set': redefinition
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1104): message : see declaration of 'stbi__vertically_flip_on_load_set'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1106,14): error C2084: function 'void stbi_set_flip_vertically_on_load_thread(int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1106): message : see previous definition of 'stbi_set_flip_vertically_on_load_thread'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1117,14): error C2084: function 'void *stbi__load_main(stbi__context *,int *,int *,int *,int,stbi__result_info *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1117): message : see previous definition of 'stbi__load_main'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1167,11): error C2065: 'stbi__err': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1170,17): error C2084: function 'stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1170): message : see previous definition of 'stbi__convert_16_to_8'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1176,26): error C2065: 'stbi__malloc': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1177,32): error C2065: 'stbi__err': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1186,22): error C2084: function 'stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1186): message : see previous definition of 'stbi__convert_8_to_16'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1192,32): error C2065: 'stbi__malloc': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1193,50): error C2065: 'stbi__err': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1202,13): error C2084: function 'void stbi__vertical_flip(void *,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1202): message : see previous definition of 'stbi__vertical_flip'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1227,13): error C2084: function 'void stbi__vertical_flip_slices(void *,int,int,int,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1227): message : see previous definition of 'stbi__vertical_flip_slices'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1234,7): error C2065: 'stbi__vertical_flip': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1240,23): error C2084: function 'unsigned char *stbi__load_and_postprocess_8bit(stbi__context *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1240): message : see previous definition of 'stbi__load_and_postprocess_8bit'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1243,19): error C2065: 'stbi__load_main': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1252,16): error C2065: 'stbi__convert_16_to_8': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1252,104): error C2568: '=': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1252,104): message : could be 'stbi_uc *stbi__convert_16_to_8(stbi__uint16 *,int,int,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1260,7): error C2065: 'stbi__vertical_flip': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1266,22): error C2084: function 'stbi__uint16 *stbi__load_and_postprocess_16bit(stbi__context *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1266): message : see previous definition of 'stbi__load_and_postprocess_16bit'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1269,19): error C2065: 'stbi__load_main': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1278,16): error C2065: 'stbi__convert_8_to_16': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1278,99): error C2568: '=': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1278,99): message : could be 'stbi__uint16 *stbi__convert_8_to_16(stbi_uc *,int,int,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1287,7): error C2065: 'stbi__vertical_flip': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1294,13): error C2084: function 'void stbi__float_postprocess(float *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1294): message : see previous definition of 'stbi__float_postprocess'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1298,7): error C2065: 'stbi__vertical_flip': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1317,14): error C2084: function 'FILE *stbi__fopen(const char *,const char *)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1317): message : see previous definition of 'stbi__fopen'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1346,18): error C2084: function 'stbi_uc *stbi_load(const char *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1346): message : see previous definition of 'stbi_load'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1348,14): error C2065: 'stbi__fopen': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1348,41): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1348,12): message : There is no context in which this conversion is possible
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1350,19): error C2065: 'stbi__err': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1356,18): error C2084: function 'stbi_uc *stbi_load_from_file(FILE *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1356): message : see previous definition of 'stbi_load_from_file'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1360,4): error C2065: 'stbi__start_file': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1361,13): error C2065: 'stbi__load_and_postprocess_8bit': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1361,66): error C2568: '=': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1361,66): message : could be 'unsigned char *stbi__load_and_postprocess_8bit(stbi__context *,int *,int *,int *,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1369,23): error C2084: function 'stbi_us *stbi_load_from_file_16(FILE *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1369): message : see previous definition of 'stbi_load_from_file_16'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1373,4): error C2065: 'stbi__start_file': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1374,13): error C2065: 'stbi__load_and_postprocess_16bit': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1374,67): error C2568: '=': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1374,67): message : could be 'stbi__uint16 *stbi__load_and_postprocess_16bit(stbi__context *,int *,int *,int *,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1382,18): error C2084: function 'stbi_us *stbi_load_16(const char *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1382): message : see previous definition of 'stbi_load_16'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1384,14): error C2065: 'stbi__fopen': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1384,41): error C2440: 'initializing': cannot convert from 'FILE *(__cdecl *)(const char *,const char *)' to 'FILE *'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1384,12): message : There is no context in which this conversion is possible
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1386,31): error C2065: 'stbi__err': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1387,13): error C2065: 'stbi_load_from_file_16': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1387,56): error C2568: '=': unable to resolve function overload
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1387,56): message : could be 'stbi_us *stbi_load_from_file_16(FILE *,int *,int *,int *,int)'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1395,18): error C2084: function 'stbi_us *stbi_load_16_from_memory(const stbi_uc *,int,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1395): message : see previous definition of 'stbi_load_16_from_memory'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1398,4): error C2065: 'stbi__start_mem': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1399,11): error C2065: 'stbi__load_and_postprocess_16bit': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1402,18): error C2084: function 'stbi_us *stbi_load_16_from_callbacks(const stbi_io_callbacks *,void *,int *,int *,int *,int)' already has a body
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1402): message : see previous definition of 'stbi_load_16_from_callbacks'
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1405,4): error C2065: 'stbi__start_callbacks': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1406,11): error C2065: 'stbi__load_and_postprocess_16bit': undeclared identifier
+C:\BitBucket\Modelare-Grafica\Grafica3D\_external\stb-master\stb_image.h(1406,84): fatal error C1003: error count exceeds 100; stopping compilation
