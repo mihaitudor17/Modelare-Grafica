@@ -1,0 +1,3 @@
+﻿  Blending.cpp
+C:\BitBucket\Modelare-Grafica\Grafica3D\Blending\Blending\Blending.cpp(392,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Blending.vcxproj -> C:\BitBucket\Modelare-Grafica\Grafica3D\Blending\Debug\Blending.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc89b8c8-95f0-4a9f-9ec2-f0c8fa2d82b8": {
+      "ProjectGuid": "bc89b8c8-95f0-4a9f-9ec2-f0c8fa2d82b8",
+      "DisplayName": "Blending",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
