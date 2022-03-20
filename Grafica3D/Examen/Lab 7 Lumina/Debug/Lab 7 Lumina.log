@@ -1,0 +1,24 @@
+﻿  Lab 7 Lumina.cpp
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(546,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(547,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(625,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(628,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(631,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(634,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(637,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(640,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(659,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(661,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(665,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(670,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(675,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\blaga\Downloads\Laborator 7\Lab 7 Lumina\Lab 7 Lumina.cpp(680,17): warning C4305: '-=': truncation from 'double' to 'float'
+  Lab 7 Lumina.vcxproj -> C:\Users\blaga\Downloads\Laborator 7\Debug\Lab 7 Lumina.exe
